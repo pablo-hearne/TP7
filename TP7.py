@@ -380,7 +380,7 @@ class Admin(Usuario):
 admin1 = Admin(usuario1.nombre,usuario1.apellido,usuario1.nombre_usuario,usuario1.contrasenia,privilegios)
 
 
-admin1.privilegios.mostrar_privilegios()
+# admin1.privilegios.mostrar_privilegios()
 
 
 
@@ -411,3 +411,6 @@ admin1.privilegios.mostrar_privilegios()
 
 # 10) (Opcional): Repita el ejercicio anterior pero esta vez importando la clase Heladeria. ¿Qué se necesita para que funcione la
 # importación?
+
+
+
